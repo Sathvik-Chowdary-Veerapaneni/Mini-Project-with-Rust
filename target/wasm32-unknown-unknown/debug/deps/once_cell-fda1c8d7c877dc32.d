@@ -1,0 +1,9 @@
+/Users/sathvikchowdaryveerapaneni/Documents/Software Engineering Spring 2023/Projects/rust_project/yew-app/target/wasm32-unknown-unknown/debug/deps/once_cell-fda1c8d7c877dc32.rmeta: /Users/sathvikchowdaryveerapaneni/.cargo/registry/src/github.com-1ecc6299db9ec823/once_cell-1.17.1/src/lib.rs /Users/sathvikchowdaryveerapaneni/.cargo/registry/src/github.com-1ecc6299db9ec823/once_cell-1.17.1/src/imp_std.rs /Users/sathvikchowdaryveerapaneni/.cargo/registry/src/github.com-1ecc6299db9ec823/once_cell-1.17.1/src/race.rs
+
+/Users/sathvikchowdaryveerapaneni/Documents/Software Engineering Spring 2023/Projects/rust_project/yew-app/target/wasm32-unknown-unknown/debug/deps/libonce_cell-fda1c8d7c877dc32.rlib: /Users/sathvikchowdaryveerapaneni/.cargo/registry/src/github.com-1ecc6299db9ec823/once_cell-1.17.1/src/lib.rs /Users/sathvikchowdaryveerapaneni/.cargo/registry/src/github.com-1ecc6299db9ec823/once_cell-1.17.1/src/imp_std.rs /Users/sathvikchowdaryveerapaneni/.cargo/registry/src/github.com-1ecc6299db9ec823/once_cell-1.17.1/src/race.rs
+
+/Users/sathvikchowdaryveerapaneni/Documents/Software Engineering Spring 2023/Projects/rust_project/yew-app/target/wasm32-unknown-unknown/debug/deps/once_cell-fda1c8d7c877dc32.d: /Users/sathvikchowdaryveerapaneni/.cargo/registry/src/github.com-1ecc6299db9ec823/once_cell-1.17.1/src/lib.rs /Users/sathvikchowdaryveerapaneni/.cargo/registry/src/github.com-1ecc6299db9ec823/once_cell-1.17.1/src/imp_std.rs /Users/sathvikchowdaryveerapaneni/.cargo/registry/src/github.com-1ecc6299db9ec823/once_cell-1.17.1/src/race.rs
+
+/Users/sathvikchowdaryveerapaneni/.cargo/registry/src/github.com-1ecc6299db9ec823/once_cell-1.17.1/src/lib.rs:
+/Users/sathvikchowdaryveerapaneni/.cargo/registry/src/github.com-1ecc6299db9ec823/once_cell-1.17.1/src/imp_std.rs:
+/Users/sathvikchowdaryveerapaneni/.cargo/registry/src/github.com-1ecc6299db9ec823/once_cell-1.17.1/src/race.rs:

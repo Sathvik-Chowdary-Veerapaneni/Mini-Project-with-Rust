@@ -1,0 +1,7 @@
+/Users/sathvikchowdaryveerapaneni/Documents/Software Engineering Spring 2023/Projects/rust_project/yew-app/target/debug/deps/libtracing_attributes-488b6c50b17806ba.dylib: /Users/sathvikchowdaryveerapaneni/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-attributes-0.1.23/src/lib.rs /Users/sathvikchowdaryveerapaneni/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-attributes-0.1.23/src/attr.rs /Users/sathvikchowdaryveerapaneni/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-attributes-0.1.23/src/expand.rs
+
+/Users/sathvikchowdaryveerapaneni/Documents/Software Engineering Spring 2023/Projects/rust_project/yew-app/target/debug/deps/tracing_attributes-488b6c50b17806ba.d: /Users/sathvikchowdaryveerapaneni/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-attributes-0.1.23/src/lib.rs /Users/sathvikchowdaryveerapaneni/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-attributes-0.1.23/src/attr.rs /Users/sathvikchowdaryveerapaneni/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-attributes-0.1.23/src/expand.rs
+
+/Users/sathvikchowdaryveerapaneni/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-attributes-0.1.23/src/lib.rs:
+/Users/sathvikchowdaryveerapaneni/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-attributes-0.1.23/src/attr.rs:
+/Users/sathvikchowdaryveerapaneni/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-attributes-0.1.23/src/expand.rs:

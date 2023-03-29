@@ -1,0 +1,9 @@
+/Users/sathvikchowdaryveerapaneni/Documents/Software Engineering Spring 2023/Projects/rust_project/yew-app/target/wasm32-unknown-unknown/debug/deps/thiserror-38cc513868116acc.rmeta: /Users/sathvikchowdaryveerapaneni/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-1.0.40/src/lib.rs /Users/sathvikchowdaryveerapaneni/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-1.0.40/src/aserror.rs /Users/sathvikchowdaryveerapaneni/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-1.0.40/src/display.rs
+
+/Users/sathvikchowdaryveerapaneni/Documents/Software Engineering Spring 2023/Projects/rust_project/yew-app/target/wasm32-unknown-unknown/debug/deps/libthiserror-38cc513868116acc.rlib: /Users/sathvikchowdaryveerapaneni/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-1.0.40/src/lib.rs /Users/sathvikchowdaryveerapaneni/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-1.0.40/src/aserror.rs /Users/sathvikchowdaryveerapaneni/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-1.0.40/src/display.rs
+
+/Users/sathvikchowdaryveerapaneni/Documents/Software Engineering Spring 2023/Projects/rust_project/yew-app/target/wasm32-unknown-unknown/debug/deps/thiserror-38cc513868116acc.d: /Users/sathvikchowdaryveerapaneni/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-1.0.40/src/lib.rs /Users/sathvikchowdaryveerapaneni/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-1.0.40/src/aserror.rs /Users/sathvikchowdaryveerapaneni/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-1.0.40/src/display.rs
+
+/Users/sathvikchowdaryveerapaneni/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-1.0.40/src/lib.rs:
+/Users/sathvikchowdaryveerapaneni/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-1.0.40/src/aserror.rs:
+/Users/sathvikchowdaryveerapaneni/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-1.0.40/src/display.rs:
